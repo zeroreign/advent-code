@@ -1,0 +1,22 @@
+{
+  "name": "2018",
+  "version": "1.0.0",
+  "description": "Advent Code Solutions for 2018 using TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeroreign/advent-code.git"
+  },
+  "keywords": [
+    "AdventCode"
+  ],
+  "author": "Eddie Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeroreign/advent-code/issues"
+  },
+  "homepage": "https://github.com/zeroreign/advent-code#readme"
+}
