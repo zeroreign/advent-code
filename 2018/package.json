@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/zeroreign/advent-code/issues"
   },
-  "homepage": "https://github.com/zeroreign/advent-code#readme"
+  "homepage": "https://github.com/zeroreign/advent-code#readme",
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
 }
